@@ -17,7 +17,7 @@ The purpose of this project is to practice utilizing Bootstrap elements to style
 
 ## Known Bugs
 
-Unable to center image at this time. Would like to center align image for finished web page.
+There are no known bugs at this time. Previous issues with centering image have been resolved.
 
 ## Support and contact details
 
